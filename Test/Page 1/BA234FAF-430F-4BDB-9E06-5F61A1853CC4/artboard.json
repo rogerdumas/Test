@@ -25,8 +25,8 @@
     "x": 438,
     "y": 253
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,10 +48,14 @@
     {
       "class": "text",
       "id": "40BC12AE-8A5D-4D3C-88A7-EEB02299F244"
+    },
+    {
+      "class": "text",
+      "id": "D4CE7E52-F895-4D65-BE6D-B89815449E4C"
     }
   ],
-  "name": "iPhone 7",
-  "nameIsFixed": false,
+  "name": "artboard 1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
