@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "BA234FAF-430F-4BDB-9E06-5F61A1853CC4",
+  "_class": "page",
+  "do_objectID": "499781CC-93E1-45B3-9965-386B03802A10",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,20 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 438,
-    "y": 253
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -433,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -42,17 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "649037EE-75A5-43D4-9184-E142DC550684"
-    },
-    {
-      "class": "text",
-      "id": "D4CE7E52-F895-4D65-BE6D-B89815449E4C"
+      "class": "symbolMaster",
+      "id": "2E934399-0875-477A-9CD9-052DC217F3A9"
     }
   ],
-  "name": "artboard 1",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -651,
     "guides": [
     ]
   }
